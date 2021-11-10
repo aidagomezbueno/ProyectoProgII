@@ -1,0 +1,19 @@
+------------
+Producto seleccionado: Crema Solar (23.95€/ud)
+     Unidades: 1 uds.
+     Precio: 23.95€
+------------
+Producto seleccionado: Garbanzo (3.15€/ud)
+     Unidades: 6 uds.
+     Precio: 18.9€
+------------
+Producto seleccionado: Manzana (3.69€/kg)
+     Kilos: 0.44999999999999996 kg.
+     Precio: 1.6604999999999999€
+------------
+Producto seleccionado: Ojito (3.13€/kg)
+     Kilos: 0.2 kg.
+     Precio: 0.626€
+------------
+
+Precio total = 45.13649999999999 €
